@@ -1,0 +1,32 @@
+Column_Number,Column_Name,Data_Type,Missing_Count,Missing_Percentage,Unique_Values
+1,Company Name,object,0,0.0,310
+2,Website,object,20,5.85,298
+3,Company Linkedin Url,object,0,0.0,316
+4,Contact,object,67,19.59,245
+5,Company Country,object,6,1.75,31
+6,Company City,object,15,4.39,110
+7,Company State,object,15,4.39,60
+8,Company Address,object,5,1.46,292
+9,Industry,object,1,0.29,63
+10,# Employees,object,0,0.0,183
+11,Annual Revenue,object,79,23.1,236
+12,Founded Year,object,30,8.77,90
+13,AI/ML Signals,object,72,21.05,4
+14,API/Platform Signals,object,58,16.96,4
+15,Cloud/Data Signals,object,61,17.84,4
+16,Software Development Signals,object,34,9.94,4
+17,Hiring/Growth Signals,object,169,49.42,4
+18,Funding/Expansion Signals,object,186,54.39,4
+19,Marketing Segment,object,13,3.8,9
+20,Marketing Readiness,object,13,3.8,6
+21,Data Quality Status,object,13,3.8,5
+22,Source_File,object,13,3.8,5
+23,Facebook Url,object,95,27.78,225
+24,Total Funding,object,158,46.2,163
+25,Latest Funding,object,154,45.03,15
+26,Latest Funding Amount,object,166,48.54,127
+27,Last Raised At,object,154,45.03,82
+28,Apollo Account Id,object,13,3.8,327
+29,Apollo Record Id,object,13,3.8,327
+30,Keywords,object,17,4.97,299
+31,Technology Areas,object,25,7.31,292

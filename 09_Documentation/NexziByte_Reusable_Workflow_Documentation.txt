@@ -1,0 +1,171 @@
+NEXZIBYTE B2B LEAD INTELLIGENCE
+REUSABLE WORKFLOW
+VERSION 1.0
+
+============================================================
+PURPOSE
+============================================================
+
+Reusable pipeline for transforming authorized raw B2B lead
+data into clean, validated, enriched, segmented and
+marketing-ready intelligence.
+
+============================================================
+PIPELINE
+============================================================
+
+Raw Data
+    ↓
+Column Standardization
+    ↓
+Data Cleaning
+    ↓
+Duplicate Detection
+    ↓
+Missing & Invalid Validation
+    ↓
+Company / Industry / Location Standardization
+    ↓
+Technology & Business Signals
+    ↓
+Technology Evidence
+    ↓
+Persona Classification
+    ↓
+NexziByte Service Mapping
+    ↓
+Marketing Segmentation
+    ↓
+Marketing Readiness
+    ↓
+Prospect Scoring
+    ↓
+Lead Priority
+    ↓
+Campaign Intelligence
+    ↓
+Campaign Outcome Tracking
+    ↓
+Final Master Dataset
+    ↓
+Power BI Dashboard
+
+============================================================
+KEY PRINCIPLE
+============================================================
+
+Observed information and inferred opportunities are kept
+separate.
+
+Observed information represents evidence present in the
+source data.
+
+Inferred opportunity represents a potential NexziByte service
+or business opportunity derived from available evidence.
+
+The workflow does not intentionally fabricate missing
+persona, technology, product launch, partnership or business
+signals.
+
+============================================================
+MARKETING READINESS
+============================================================
+
+READY
+    Usable company identity and sufficient evidence for
+    targeted marketing.
+
+NEEDS VERIFICATION
+    Potential prospect requiring additional validation.
+
+DO NOT USE
+    Invalid or unusable record.
+
+============================================================
+LEAD PRIORITY
+============================================================
+
+Tier 1 - High Priority
+    Prospect Score >= 75
+
+Tier 2 - Priority
+    Prospect Score 60–74
+
+Tier 3 - Nurture
+    Prospect Score 40–59
+
+Tier 4 - Low Priority
+    Prospect Score < 40
+
+DO NOT USE records remain Tier 4.
+
+============================================================
+SCORING
+============================================================
+
+Company Fit
+Technology Fit
+Growth Intent
+Funding / Expansion
+Marketing Readiness
+Data Confidence
+
+These components form the Prospect Score.
+
+============================================================
+CAMPAIGN INTELLIGENCE
+============================================================
+
+Each company receives, where evidence permits:
+
+Target Persona
+Marketing Segment
+Campaign Service
+Campaign Angle
+Targeting Reason
+Campaign Priority
+Campaign Status
+
+============================================================
+CAMPAIGN OUTCOME TRACKING
+============================================================
+
+Campaign Name
+Email Sent
+Delivered
+Opened
+Clicked
+Replied
+Interested
+Meeting Booked
+Requirement Received
+Proposal Sent
+Won
+Lost
+Follow-up Status
+Follow-up Date
+
+============================================================
+REUSABILITY
+============================================================
+
+The workflow is designed to process a new authorized raw
+CSV by changing the input file in the Raw Data folder and
+rerunning the notebook.
+
+Outputs are saved into the existing project folder structure.
+
+============================================================
+POWER BI SOURCE
+============================================================
+
+The recommended central Power BI source is:
+
+05_Final_Output/
+NexziByte_B2B_Lead_Intelligence_REUSABLE_FINAL_MASTER.csv
+
+Campaign outcome tracking is maintained separately so that
+future campaign activity can be updated without rebuilding
+the intelligence pipeline.
+
+============================================================

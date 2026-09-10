@@ -1,0 +1,41 @@
+﻿Prospect Rank V2,Company Name,Industry_Standardized,# Employees,Revenue Band,Technology Fit Score V2,Company Fit Score,Growth Intent Score,Funding Expansion Score,Marketing Readiness Score,Data Confidence Score,Marketing Readiness V2,Data Quality Status V2,Prospect Score V2,Lead Priority V2
+1,Amazon,Information Technology,1576000,$50B+,25,19,20,15,10,10,High Potential,Clean,99,Tier 1 - High Priority
+1,Meta,Information Technology,79000,$50B+,25,19,20,15,10,10,High Potential,Clean,99,Tier 1 - High Priority
+1,Oracle,Information Technology,141000,$50B+,25,19,20,15,10,10,High Potential,Clean,99,Tier 1 - High Priority
+1,State Bank of India,Banking,245000,$50B+,25,19,20,15,10,10,High Potential,Clean,99,Tier 1 - High Priority
+1,Verizon,Information Technology,90000,$50B+,25,19,20,15,10,10,High Potential,Clean,99,Tier 1 - High Priority
+6,Bajaj Finserv,Financial Services,105000,$10B - $50B,25,18,20,15,10,10,High Potential,Clean,98,Tier 1 - High Priority
+6,Hewlett Packard Enterprise,Information Technology,67000,$10B - $50B,25,18,20,15,10,10,High Potential,Clean,98,Tier 1 - High Priority
+6,Larsen & Toubro,executive office,57000,$10B - $50B,25,18,20,15,10,10,High Potential,Clean,98,Tier 1 - High Priority
+6,Mercado Libre,Media & Entertainment,124000,$10B - $50B,25,18,20,15,10,10,High Potential,Clean,98,Tier 1 - High Priority
+6,SAP,Information Technology,108000,$10B - $50B,25,18,20,15,10,10,High Potential,Clean,98,Tier 1 - High Priority
+6,Salesforce,Information Technology,84000,$10B - $50B,25,18,20,15,10,10,High Potential,Clean,98,Tier 1 - High Priority
+6,Tata Steel,Mining & Metals,122000,$10B - $50B,25,18,20,15,10,10,High Potential,Clean,98,Tier 1 - High Priority
+13,Electronic Arts (EA),Entertainment,15000,$1B - $10B,25,17,20,15,10,10,High Potential,Clean,97,Tier 1 - High Priority
+13,IDFC FIRST Bank,Banking,42000,$1B - $10B,25,17,20,15,10,10,High Potential,Clean,97,Tier 1 - High Priority
+13,Nagarro,Information Technology,18000,$1B - $10B,25,17,20,15,10,10,High Potential,Clean,97,Tier 1 - High Priority
+13,Stripe,Information Technology,8000,$1B - $10B,25,17,20,15,10,10,High Potential,Clean,97,Tier 1 - High Priority
+13,TATA Power,Utilities,23000,$1B - $10B,25,17,20,15,10,10,High Potential,Clean,97,Tier 1 - High Priority
+13,Tata Capital,Financial Services,26000,$1B - $10B,25,17,20,15,10,10,High Potential,Clean,97,Tier 1 - High Priority
+13,noon,Retail,49000,$1B - $10B,25,17,20,15,10,10,High Potential,Clean,97,Tier 1 - High Priority
+20,Concentrix,Information Technology,455000,$1B - $10B,25,16,20,15,10,10,High Potential,Clean,96,Tier 1 - High Priority
+21,ByteDance,Information Technology,124000,$50B+,25,19,20,15,10,6,High Potential,Review Required,95,Tier 1 - High Priority
+21,OYO,Information Technology,16000,$250M - $1B,25,15,20,15,10,10,High Potential,Clean,95,Tier 1 - High Priority
+23,Adani Group,Utilities,43000,$10B - $50B,25,19,20,10,10,10,High Potential,Clean,94,Tier 1 - High Priority
+23,Apple,Electrical & Electronics,166000,$50B+,25,19,20,10,10,10,High Potential,Clean,94,Tier 1 - High Priority
+23,HP,Information Technology,55000,$50B+,25,19,20,10,10,10,High Potential,Clean,94,Tier 1 - High Priority
+23,Huawei,Telecommunications,208000,$50B+,25,19,20,10,10,10,High Potential,Clean,94,Tier 1 - High Priority
+23,LinkedIn,Information Technology,21000,$10B - $50B,25,19,20,10,10,10,High Potential,Clean,94,Tier 1 - High Priority
+23,Xiaomi Technology,Information Technology,57000,$50B+,25,19,20,10,10,10,High Potential,Clean,94,Tier 1 - High Priority
+29,Ericsson,Telecommunications,88000,$10B - $50B,25,18,20,10,10,10,High Potential,Clean,93,Tier 1 - High Priority
+29,HDFC Bank,Banking,211000,$50B+,19,19,20,15,10,10,High Potential,Clean,93,Tier 1 - High Priority
+31,Hexaware Technologies,Information Technology,32000,$1B - $10B,25,17,20,10,10,10,High Potential,Clean,92,Tier 1 - High Priority
+31,Kotak Mahindra Bank,Banking,116000,$10B - $50B,19,18,20,15,10,10,High Potential,Clean,92,Tier 1 - High Priority
+31,Perplexity,Information Technology,1400,$250M - $1B,25,12,20,15,10,10,High Potential,Clean,92,Tier 1 - High Priority
+34,Biocon,Research,17000,$1B - $10B,19,17,20,15,10,10,High Potential,Clean,91,Tier 1 - High Priority
+34,EXL,Management Consulting,65000,$1B - $10B,25,16,20,10,10,10,High Potential,Clean,91,Tier 1 - High Priority
+36,Internshala,Information Technology,5500,$1M - $10M,25,10,20,15,10,10,High Potential,Clean,90,Tier 1 - High Priority
+36,Reliance Industries Limited,Energy,347000,$50B+,25,19,20,10,10,6,High Potential,Review Required,90,Tier 1 - High Priority
+36,Tata Electronics,Engineering,65000,$1B - $10B,19,16,20,15,10,10,High Potential,Clean,90,Tier 1 - High Priority
+36,Uber,Internet & Technology,34000,$50B+,25,20,20,5,10,10,High Potential,Clean,90,Tier 1 - High Priority
+36,upGrad,E-Learning,3900,$50M - $250M,25,10,20,15,10,10,High Potential,Clean,90,Tier 1 - High Priority

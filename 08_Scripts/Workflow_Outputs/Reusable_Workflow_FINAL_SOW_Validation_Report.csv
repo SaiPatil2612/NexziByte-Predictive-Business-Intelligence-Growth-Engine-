@@ -1,0 +1,10 @@
+﻿Validation_Check,Result
+Rows,332
+Columns,207
+Missing Required Fields,0
+Empty Required Fields,11
+Exact Duplicate Rows,0
+Duplicate Company Names,331
+Invalid Prospect Scores,332
+Priority Mismatches,332
+Invalid Marketing Readiness,332

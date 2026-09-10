@@ -1,0 +1,11 @@
+﻿Country_Standardized,Company_Count,Average_Prospect_Score,Average_Technology_Fit,Average_Company_Fit,Average_Growth_Intent,Average_Funding_Expansion,Average_Marketing_Readiness,Tier_1_Leads,Tier_2_Leads,Tier_1_Percentage
+India,169,65.58,19.01,12.83,11.24,5.41,7.91,17,55,10.06
+United States,76,67.97,20.38,14.03,10.0,6.32,7.83,15,21,19.74
+China,3,94.33,25.0,19.0,20.0,11.67,10.0,3,0,100.0
+Germany,4,69.5,18.75,14.0,10.0,10.0,7.75,2,0,50.0
+France,7,65.0,21.43,15.86,5.71,5.71,6.86,0,2,0.0
+Brazil,10,59.4,19.4,11.2,10.0,2.5,7.9,0,3,0.0
+Australia,4,55.5,17.0,9.5,5.0,8.75,6.25,0,1,0.0
+United Kingdom,9,43.33,12.22,5.89,8.89,1.67,6.0,0,2,0.0
+Canada,3,22.0,6.0,2.0,0.0,0.0,4.0,0,0,0.0
+Not Available,6,18.67,5.0,3.0,3.33,0.0,2.67,0,0,0.0

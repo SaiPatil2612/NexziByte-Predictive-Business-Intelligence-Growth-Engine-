@@ -1,0 +1,77 @@
+﻿Column Name,Description,Source / Logic Type,Data Type
+Company Name,Company name used as the operational company identifier,Source,object
+Technology Areas Cleaned,Cleaned technology-area information,Derived,object
+AI/ML Signals,Observed AI/ML technology signal,Observed,object
+API/Platform Signals,Observed API/Platform technology signal,Observed,object
+Cloud/Data Signals,Observed Cloud/Data technology signal,Observed,object
+Software Development Signals,Observed software-development signal,Observed,object
+AI Technology Evidence,Field retained from source or previous processing stage,Source / Derived,bool
+Cloud/Data Technology Evidence,Field retained from source or previous processing stage,Source / Derived,bool
+API/Platform Technology Evidence,Field retained from source or previous processing stage,Source / Derived,bool
+Software Development Evidence,Field retained from source or previous processing stage,Source / Derived,bool
+AI Evidence Count,Count of detected AI/ML evidence,Derived,int64
+Cloud/Data Evidence Count,Count of detected Cloud/Data evidence,Derived,int64
+API/Platform Evidence Count,Count of detected API/Platform evidence,Derived,int64
+Software Development Evidence Count,Count of detected software-development evidence,Derived,int64
+Total Technology Evidence,Total detected technology evidence,Derived,int64
+High Value AI Terms,Field retained from source or previous processing stage,Source / Derived,object
+High Value Cloud Terms,Field retained from source or previous processing stage,Source / Derived,object
+High Value Platform Terms,Field retained from source or previous processing stage,Source / Derived,object
+High Value Dev Terms,Field retained from source or previous processing stage,Source / Derived,object
+High Value Technology Count,Count of high-value technology terms,Derived,int64
+Technology Fit Score V2,Technology-fit score from validated scoring methodology,Derived,int64
+Company Fit Score,Company-fit score,Derived,int64
+Growth Intent Score,Growth-intent score,Derived,int64
+Funding Expansion Score,Funding/expansion score,Derived,int64
+Marketing Readiness Score,Marketing-readiness component score,Derived,int64
+Data Confidence Score,Data-confidence component score,Derived,int64
+Marketing Readiness V2,Field retained from source or previous processing stage,Source / Derived,object
+Data Quality Status V2,Field retained from source or previous processing stage,Source / Derived,object
+Prospect Score V2,Overall prospect score,Derived,int64
+Lead Priority V2,Priority tier based on prospect score,Derived,object
+Prospect Rank V2,Prospect ranking based on prospect score,Derived,int64
+Automation / Workflow Signals,Field retained from source or previous processing stage,Source / Derived,object
+Hiring Signals,Field retained from source or previous processing stage,Source / Derived,object
+Growth Signals,Field retained from source or previous processing stage,Source / Derived,object
+Expansion Signals,Field retained from source or previous processing stage,Source / Derived,object
+Funding Signals,Field retained from source or previous processing stage,Source / Derived,object
+Product Launch Signals,Field retained from source or previous processing stage,Source / Derived,object
+Partnership Signals,Field retained from source or previous processing stage,Source / Derived,object
+Observed Information,Field retained from source or previous processing stage,Source / Derived,object
+Inferred Opportunity,Field retained from source or previous processing stage,Source / Derived,object
+Contact,Contact field supplied in the source dataset,Source,object
+Hiring/Growth Signals,Observed hiring/growth signal,Observed,object
+Funding/Expansion Signals,Observed funding/expansion signal,Observed,object
+Industry_Standardized,Standardized industry classification,Derived,object
+Website,Company website supplied in the source dataset,Source,object
+Keywords,Field retained from source or previous processing stage,Source / Derived,object
+Persona,Contact persona classification,Derived,object
+Persona Category,Broad contact-persona category,Derived,object
+Persona Relevance,Whether persona relevance can be determined,Derived,object
+Persona Evidence,Evidence supporting persona classification,Derived,object
+Persona Data Status,Availability status of persona information,Derived,object
+Primary Service Opportunity,Potential primary NexziByte service inferred from observed evidence,Inferred Opportunity,object
+Secondary Service Opportunity,Potential secondary NexziByte service,Inferred Opportunity,object
+Service Opportunity Reason,Reason supporting the service opportunity,Inferred Opportunity,object
+Marketing Segment,Multi-label marketing segment,Derived,object
+Segment Reason,Observed evidence supporting segment assignment,Observed / Derived,object
+Target Persona,Target persona recommendation; currently requires verification,Inferred / Verification Required,object
+Campaign Service,Service recommended for campaign positioning,Inferred Opportunity,object
+Recommended Campaign Angle,Suggested campaign positioning,Inferred Opportunity,object
+Campaign Targeting Reason,Evidence-based reason for targeting,Inferred Opportunity,object
+Marketing Readiness Final,Operational marketing readiness classification,Derived,object
+Campaign Name,Future campaign identifier,Campaign Tracking,object
+Email Sent,Future campaign delivery status,Campaign Tracking,object
+Delivered,Future email delivery status,Campaign Tracking,object
+Opened,Future email open status,Campaign Tracking,object
+Clicked,Future email click status,Campaign Tracking,object
+Replied,Future response status,Campaign Tracking,object
+Interested,Future prospect interest status,Campaign Tracking,object
+Meeting Booked,Future meeting status,Campaign Tracking,object
+Requirement Received,Future requirement status,Campaign Tracking,object
+Proposal Sent,Future proposal status,Campaign Tracking,object
+Deal Status,Future opportunity outcome,Campaign Tracking,object
+Follow-up Status,Future follow-up status,Campaign Tracking,object
+Follow-up Date,Future scheduled follow-up date,Campaign Tracking,object
+Company Size Category,Standardized company-size segment,Derived,object
+Revenue Band,Standardized revenue category,Derived,object

@@ -1,0 +1,9 @@
+﻿Validation_Check,Status
+Required fields,PASS
+Required NULL check,FAIL
+Exact duplicates,PASS
+Prospect score range,FAIL
+Marketing readiness,FAIL
+Lead priority,FAIL
+Campaign metrics,PASS
+OVERALL,REVIEW REQUIRED
